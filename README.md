@@ -1,1 +1,1 @@
-# function
+# function square and cube
